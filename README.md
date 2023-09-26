@@ -20,8 +20,7 @@ As a computer engineering student, I am currently focusing on expanding my skill
 
 
 ## Screenshots
-
-![App Screenshot]()
+![Calculator](https://github.com/Birendra999/Simple-Calculator-Using-HTML-CSS-JAVASCRIPT/assets/105239656/0237ec14-76cb-424f-8981-27aa43e24fb0)
 
 
 ## Feedback
