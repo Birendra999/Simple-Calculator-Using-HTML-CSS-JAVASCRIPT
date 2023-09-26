@@ -26,4 +26,4 @@ As a computer engineering student, I am currently focusing on expanding my skill
 
 ## Feedback
 
-If you have any feedback, please reach out to me at birendrabahadurbudhaeng99@gmail.com
+If you have any feedback, please reach out to me at bbudha469@rku.ac.in
